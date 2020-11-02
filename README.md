@@ -31,7 +31,7 @@ What steps did you take to try and increase model performance?
 > Following steps were taken to try and increase model performance: 
 > - Adjusting the input data by dropping the STATUS variable
 > - Added more neurons to a hidden layer.
-> - Added hidden layers.
+> - Added hidden layer.
 > - Used different activation functions for the hidden layers.
 > - Change model's weights to be saved every 5 epochs
 
