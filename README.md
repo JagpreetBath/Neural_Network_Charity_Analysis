@@ -33,7 +33,7 @@ What steps did you take to try and increase model performance?
 > - Added more neurons to a hidden layer.
 > - Added hidden layer.
 > - Used different activation functions for the hidden layers.
-> - Change model's weights to be saved every 5 epochs
+> - Change model's weights to be saved every 5 epochs.
 
 # Summary
 The deep learning model for the alphabet soup was only able to predict 71% of the outcomes correctly at maximum. The Random forest classifiers model can be used to solve the classification problem. Random forest classifiers are a type of ensemble learning model that combines multiple smaller models into a more robust and accurate model. Random forest models have been a staple in machine learning algorithms for many years due to their robustness and scalability. Both output and feature selection of random forest models are easy to interpret, and they can easily handle outliers and nonlinear data.
